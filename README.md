@@ -4,7 +4,7 @@ Q&amp;D analysis of the realtive affordability of US states.
 This began with my response to a comment in the New York Times:
 https://nyti.ms/3oHbh7T#permid=111394436
 
-The oroginal poster observed that California is the fifth largest
+The original poster observed that California is the fifth largest
 economy in the world.  It immediately struck me that a factoid like
 that had little to do with affordability.  My thesis is that affordability
 is the quotient of income over cost of living.  So I skimmed some data
